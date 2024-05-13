@@ -3,7 +3,7 @@ import React from "react";
 const HomePage = () => {
   return (
     <div>
-      <section className="bg-transparent text-white py-32 animate-pulse">
+      <section className="bg-transparent text-white py-32 ">
         <div className="mx-auto max-w-screen-xl">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="bg-transparent text-blue-700 text-4xl font-bold">
